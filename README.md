@@ -1,5 +1,5 @@
 # TheSparksFoundation
-Data Science &amp; Business Analytics Projects.
+Data Science &amp; Business Analytics Projects :
 
 1) Task_1 : Prediction Using Supervised Machine Learning
 
