@@ -1,7 +1,7 @@
 # TheSparksFoundation
 Data Science &amp; Business Analytics Projects.
 
-# 1) Task_1 : Prediction Using Supervised Machine Learning
+** 1) Task_1 : Prediction Using Supervised Machine Learning**
      Problem Statement : Predict the marks obtained by the student based on the number of study hours. 
 
 
